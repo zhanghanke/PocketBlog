@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "口袋博客",
   "version": "1.0.0",
-  "description": "Blog: An Ionic project",
+  "description": "口袋博客: 随时记录自己的思想",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",
